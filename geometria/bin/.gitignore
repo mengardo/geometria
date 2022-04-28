@@ -1,8 +1,2 @@
-/Circulo.class
-/FiguraGeometrica.class
-/Rectangulo.class
-/Triangulo.class
-/Circulo_RRT.class
-/FiguraGeometrica_RRT.class
-/Rectangulo_RRT.class
-/Triangulo_RRT.class
+/test/
+/Circulo_RRTtest.class
